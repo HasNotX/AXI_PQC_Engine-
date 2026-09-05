@@ -1,0 +1,10 @@
+
+=== RUNNING FWD NTT ===
+./run_modelsim.sh: line 37: vsim: command not found
+Generating sequential analysis for FWD NTT -> BASEMUL -> INV NTT...
+Done! Open 'detailed_stage_analysis.txt' to view the trace.
+=== RUNNING INV NTT ===
+./run_modelsim.sh: line 42: vsim: command not found
+Generating sequential analysis for FWD NTT -> BASEMUL -> INV NTT...
+Done! Open 'detailed_stage_analysis.txt' to view the trace.
+All tests complete! Output written to detailed_stage_analysis.txt

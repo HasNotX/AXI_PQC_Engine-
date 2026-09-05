@@ -1,0 +1,4 @@
+sim_transcript.log
+dump.vcd
+*.hex
+detailed_stage_analysis.txt
