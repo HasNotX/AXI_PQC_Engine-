@@ -30,9 +30,9 @@ The verification flow is fully automated using Python scripts (`verify_simulatio
 ==================================================
               MATCH VERIFICATION SUMMARY          
 ==================================================
-[  FWD NTT (BUF_A0)  ] :  896 /  896 matches | PASSED 🎉
+[  FWD NTT (BUF_A0)  ] :  896 /  896 matches | PASSED 
 ==================================================
-SUCCESS: All 896 operations match perfectly! 🏆
+SUCCESS: All 896 operations match perfectly! 
 ```
 
 The testbench conclusively proves that the AXI4-Lite wrapper successfully registers the software commands, translates them into internal CSR signals, triggers the PQC Engine, and completes the multi-stage FWD NTT operation flawlessly.
